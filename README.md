@@ -1,4 +1,4 @@
-Hi !
+# Predicting COVID-19 cases
 
 This is a project to estimate the number of COVID-19 cases in any region during the exponential phase of outburst, using a .csv data file.
 
